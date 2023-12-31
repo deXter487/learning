@@ -1,2 +1,3 @@
 feature/one:
 This text is from feature/one.
+New text is added in feature/one.
