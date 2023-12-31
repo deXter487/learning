@@ -1,4 +1,5 @@
 feature/one:
 This text is from feature/one.
 New text is added in feature/one.
-new text from online branch from feature/one.
+This new text is from local branch.
+
